@@ -36,7 +36,7 @@ Next.js/TypeScript/Supabase coaching platform across English, Turkish, Arabic, S
 
 ### AI Workforce / AZS - governed multi-agent engineering
 
-Six-role Python workforce plus a typed TypeScript successor: isolated Git worktrees, dependency-aware scheduling, bounded repair loops, durable workflows, RAG/memory, pre-call budget controls, append-only receipts, MCP/API surfaces, and independent QA/security vetoes.
+Six-role Python workforce plus a typed TypeScript successor: isolated Git worktrees, dependency-aware scheduling, bounded repair loops, durable workflows, RAG/memory, pre-call budget controls, append-only receipts, MCP/API surfaces, and independent QA/security vetoes. The public roster snapshot contains sixteen agent roles, twelve commands, and four reusable skills.
 
 ### ARGEVID - local natural-language video editor
 

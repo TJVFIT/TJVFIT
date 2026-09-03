@@ -28,7 +28,7 @@ Source: https://github.com/TJVFIT/codesmith
 
 ### AZS Roster - public plugin package
 
-A Claude Code plugin marketplace containing fourteen agent roles, six commands, four skills, MCP integration, and gate hooks.
+A Claude Code plugin marketplace containing sixteen agent roles, twelve commands, four skills, MCP integration, and gate hooks.
 
 Source: https://github.com/TJVFIT/azs-roster
 
