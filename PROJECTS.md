@@ -1,6 +1,6 @@
 # Yousif Khalid - Engineering project index
 
-Last verified: 3 September 2026. Status labels are deliberate: a live site is not automatically a finished application, and a private case study is not presented as public source.
+Last verified: 3 September 2026; AgencyOS source and visibility updated 15 November 2026. Other entries retain their recorded verification dates. Status labels are deliberate: a live site is not automatically a finished application, and a private case study is not presented as public source.
 
 ## Core AI and agent systems
 
@@ -56,10 +56,11 @@ FastAPI, SQLAlchemy/Alembic, SQLite/PostgreSQL, Huey, two Next.js applications, 
 
 A multi-tenant agency SaaS rebuild with authenticated tenant boundaries, content-generation jobs, reel production, timeline editing, a client portal, and fifteen MCP tools. The engineering gate has nineteen checks; live social publishing remains intentionally dry-run and the system is not presented as deployed.
 
-### AgencyOS - earlier private system
+### AgencyOS — public source
 
-An earlier, separate Tauri/Supabase/Ollama agency application with a native installer, client approvals, workers, and local caption fallback. The July 2026 project record documents 252 tests and a live worker heartbeat. It still requires owner-managed account and credential setup and is not claimed as a current public deployment.
+[Source repository](https://github.com/TJVFIT/agency-os)
 
+A separate Next.js/React/TypeScript agency operations app backed by Supabase, with a Tauri desktop shell and a TypeScript worker. It includes client collaboration, content and calendar workflows, asset management, reporting, and a credential-free preview. The public repository does not claim a current live deployment or connected third-party accounts; see its README for setup requirements.
 ### SHAMASI.OS - Phase 1 built and packaged
 
 TypeScript, Next.js, SQLite, Tauri/Rust.
