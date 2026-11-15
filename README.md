@@ -15,6 +15,7 @@ Based in **Ankara, Türkiye (GMT+3)**. Open to **remote AI/software engineering 
 | **[CodeSmith](https://github.com/TJVFIT/codesmith)** | A local Python/ReAct coding agent on Ollama: repository editing, controlled execution, failure recovery, and verification before completion. The public README documents **191 offline tests**. |
 | **[ArgeFabrika Releases](https://github.com/TJVFIT/argefabrika-releases)** | Packaged Windows tools for stock, pricing, margin, reminders, and accounting, with SHA-256 records and integrity-check instructions. Built around deterministic calculations, exact minor-unit money, permissions, and licensing. |
 | **[TJFit](https://github.com/TJVFIT/TJFit)** | A five-language Next.js/TypeScript/Supabase product prototype with AI planning/chat, authentication, content, and commerce surfaces. [Live site](https://tjfit.org). |
+| **[AgencyOS](https://github.com/TJVFIT/agency-os)** | Agency operations workspace for content planning, client collaboration, media workflows, and reporting; includes a web app, Tauri shell, and credential-free preview. |
 
 ## Engineering focus
 
